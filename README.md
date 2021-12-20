@@ -1,1 +1,1 @@
-## Reboot program every 1 day
+## Reboot program every day
